@@ -13,7 +13,6 @@ public class PrototypeDemo {
             CreatePrototype prototype = (CreatePrototype) cp.clone();
             prototype.show();
         }
-
     }
 }
 //优点
